@@ -1,0 +1,13 @@
+1) Я являюсь сертифицированным брокером недвижимости и ипотечным брокером. 
+Моя специальность: экономика и менеджмент. Уже 2 года я профессионально развиваюсь в сфере айти технологий, а именно как веб разраюотчик. Непрерывное обучение, постоянная практика поможет Вам в создании сайта, чтобы выгодно представить вас в бизнесе, для будущего работодателя или для ваших клиентов. 
+В создании сайта я использую: HTML, CSS and JavaScript. Легко могу работать в команде, использую Github.
+
+2) В ближайшие 2 года (2021-2022) я планирую получить навыки в: синтаксис JSX, React JS, Angular, Vue JS,  API, Node JS, PHP, MySQL. Также я обучаюсь как начинающий бухгалтер (Международный бухгалтерский учет и налогообложение). Моя миссия: быть полезным обществу, развивать себя и людей вокруг. Моя цель: быть квалифицированным специалистом, успешным бизнесменом, надежным партнером.
+
+Translate into English:
+1) I am a Certified Real Estate and Mortgage broker in Europe.
+My specialty is economics and management. For 2 years now I have been professionally developing in the field of IT technologies, namely as a Web Developer. Continuous training, constant practice will help you in creating a website in order to profitably represent you in business, for a future employer or for your potentional clients.
+In creating the site, I use HTML, CSS and JavaScript. 
+I can easily work in a team using Github.
+
+2) In the next 2 years (2021-2022), I plan to gain skills in: JSX syntax, React JS, Angular, Vue JS, API, Node JS, PHP, MySQL. I am also studying as a Junior Accountant (International accounting and taxation). My mission: to be useful to the society, to develop myself and people around me. My goal: to be a qualified specialist, a successful businessman and a reliable partner.
