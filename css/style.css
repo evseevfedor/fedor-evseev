@@ -572,6 +572,11 @@ header.sticky ul li a {
 		cursor: pointer;
 	}
 }
+
+a.phone {
+	text-decoration: none;
+}
+
 */
 /*
 color: #3c4d74, 
