@@ -583,6 +583,16 @@ a.phone:hover {
     text-decoration: underline;
 }
 
+div.text p a {
+    text-decoration: none;
+    color: white;
+}
+
+div.text p a:hover {
+    text-decoration: underline;
+    color: red;
+}
+
 */
 /*
 color: #3c4d74, 
