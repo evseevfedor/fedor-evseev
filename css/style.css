@@ -574,7 +574,13 @@ header.sticky ul li a {
 }
 
 a.phone {
-	text-decoration: none;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+
+a.phone:hover {
+    text-decoration: underline;
 }
 
 */
